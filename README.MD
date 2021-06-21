@@ -6,3 +6,7 @@
 
     - [] Clone the repo
     - [] Run any webserver on your PC or the vsCode extension `Live Server`
+
+
+###### Styled with tailwind css
+<img src="https://miro.medium.com/max/800/1*mUISLg4ghf6QYT_f1-cnlg.png" width="140" alt="Tailwind logo" >
